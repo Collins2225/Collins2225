@@ -1,51 +1,27 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Njoku%20Collins&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20%26%20Robotics%20Engineer&descAlignY=58&descSize=20" alt="banner" />
-
-<img src="hero.gif" width="450" alt="Futuristic hologram interface" />
-
-<a href="https://github.com/Collins2225">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+robots+with+ROS+2+and+Gazebo;Arduino%2C+Linux+and+Computer+Vision;Turning+ideas+into+smart+machines" alt="Typing animation" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Collins2225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
-
----
-
-## 👨‍💻 About me
-
-I am a final-year Mechatronics and Robotics Engineering student. I build robots, test them in simulation, and teach myself something new every week.
-
-- 🔭 Working on: [Reactive Obstacle-Avoidance Comparison](https://github.com/Collins2225)
-- 👯 Looking to collaborate on: open-source ROS 2 robotics projects
-- 🌱 Learning: autonomous navigation and robot manipulation
-- 💬 Ask me about: ROS 2, Gazebo, RViz, Computer Vision and AI for Robotics
-- 📫 Reach me: [collinsnjoku42@gmail.com](mailto:collinsnjoku42@gmail.com)
-
-## 🛠 Tools I use
+<h3 align="center">Mechatronics & Robotics Engineer, Building Smart Machines with Code.</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ros,arduino,cpp,python,linux,ubuntu,git,github,opencv,matlab" alt="Tools" />
+  <img src="https://komarev.com/ghpvc/?username=Collins2225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-## 📊 GitHub stats
+<a href="https://github.com/Collins2225"><img src="https://img.shields.io/github/followers/Collins2225?label=Follow%20%40Collins2225&style=for-the-badge&logo=github&color=333333" alt="Follow" /></a>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Collins2225&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins2225&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- 🔭 I'm working on **Robotics projects with ROS 2 and Gazebo**
+- 🌱 I'm learning **Autonomous navigation and manipulation**
+- 💬 You can ask me about **Robotics, Arduino and Linux**
+- 📫 How to reach me [collinsnjoku42@gmail.com](mailto:collinsnjoku42@gmail.com)
+- ⚡ Fun fact **write something fun about yourself here**
 
-## 🔗 Connect with me
+## 🔗 Links:
 
-<a href="https://linkedin.com/in/collins-njoku-6667443b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/collins-njoku-6667443b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:collinsnjoku42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-<div align="center">
+## 🛠 Tools and Frameworks
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" alt="footer" />
-
-</div>
+| Name | Badges |
+| --- | --- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Robotics and Simulation** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge) ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-4B8BBE?style=for-the-badge) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-1477D1?style=for-the-badge) |
+| **OS and Version Control** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
