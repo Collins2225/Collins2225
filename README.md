@@ -1,6 +1,6 @@
 ## Hi, I'm Collins 👋
 
-Final-year mechatronics and robotics engineering student, building robots and learning something new every day.
+ mechatronics and robotics engineering student, building robots and learning something new every day.
 
 - 🔭 I'm currently working on: robotics projects in simulation (ROS 2, Gazebo)
 - 🌱 I'm currently learning: autonomous navigation and manipulation
