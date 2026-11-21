@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ROS 2, Gazebo, Rviz ,Computer Vision and AI for Robotics**
 
-- 📫 How to reach me **collinsnjoku42@gmail.com**
+- 📫 How to reach me [collinsnjoku42@gmail.com](mailto:collinsnjoku42@gmail.com) or [LinkedIn](https://linkedin.com/in/collins-njoku-6667443b4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
