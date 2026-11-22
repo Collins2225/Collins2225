@@ -3,7 +3,9 @@
 <h3 align="center">Mechatronics & Robotics Engineering student building smart machines with ROS 2, Gazebo and Arduino.</h3>
 
 <!-- GIF -->
-<img align="right" width="350" src="hero.gif" alt="Animated robot" />
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+<!--img align="right" width="350" src="hero.gif" alt="Animated robot" />
 
 <!-- About Section -->
 <h3 align="left">About me:</h3>
